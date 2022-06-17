@@ -1,0 +1,15 @@
+#miparrafo{
+    color:green;
+}
+
+.colores{
+    color:orange;
+}
+
+.fuente-bold{
+    font-weight: 600;
+}
+
+.colores.fuente-bold{
+    /* Aplicar a los elementos que contengan las dos clases*/
+}
